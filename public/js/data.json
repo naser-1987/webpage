@@ -1,0 +1,133 @@
+{
+    "portfolio":[
+        {
+            "id":1 ,
+            "image":"/images/portfolio/portfolio-img1.jpg",
+            "show" :"Show Image"
+        }
+        ,
+        {
+            "id":2 ,
+            "image":"/images/portfolio/portfolio-img2.jpg",
+            "show" :"Show Image"
+        }
+        ,
+        {
+            "id":3 ,
+            "image":"/images/portfolio/portfolio-img3.jpg",
+            "show" :"Show Image"
+        }
+        ,
+        {
+            "id":4 ,
+            "image":"/images/portfolio/portfolio-img4.jpg",
+            "show" :"Show Image"
+        }
+         ,
+        {
+            "id":5 ,
+            "image":"/images/portfolio/portfolio-img5.jpg",
+            "show" :"Show Image"
+        }
+        ,
+        {
+            "id":6 ,
+            "image":"/images/portfolio/portfolio-img6.jpg",
+            "show" :"Show Image"
+        }
+        ,
+        {
+            "id":7 ,
+            "image":"/images/portfolio/portfolio-img7.jpg",
+            "show" :"Show Image"
+        }
+        ,
+        {
+            "id":8 ,
+            "image":"/images/portfolio/portfolio-img8.jpg",
+            "show" :"Show Image"
+        }
+    ]
+    ,
+
+    "works" : [
+        { 
+            "id":1,
+            "title":"Mobile Ux",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas.",
+            "icon_name":"icon fa fa-chain fa-2x"
+        }
+        ,
+        { 
+            "id":2,
+            "title":"Mobile Ux",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas.",
+            "icon_name":"icon fa fa-chain fa-2x"
+        }
+        ,
+        { 
+            "id":3,
+            "title":"Mobile Ux",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas.",
+            "icon_name":"icon fa fa-chain fa-2x"
+        }
+    ]
+    ,
+
+    "social" :[
+        { 
+            "id":1,
+            "title":"Follow Me on",
+            "body":"social facbook",
+            "icon_name":"icon fa fa-facebook fa-lg"
+        }
+        ,
+        { 
+            "id":2,
+            "title":"Tweet Me on",
+            "body":"social twitter",
+            "icon_name":"icon fa fa-twitter fa-lg"
+        }
+        ,
+        { 
+            "id":3,
+            "title":"pin Me on",
+            "body":"social pinterest",
+            "icon_name":"icon fa fa-pinterest fa-lg"
+        }  
+    ]
+    , 
+
+    "skills" :[ {
+            "id":1,
+            "name":"Html5",
+            "progress" : 100
+        }
+        ,
+        {
+            "id":2,
+            "name":"Css3",
+            "progress" : 90
+        }
+        ,
+        {
+            "id":3,
+            "name":"Javascript",
+            "progress" : 70
+        }
+      
+        
+    ]
+    ,
+    
+    "user":{
+        
+        "Email":"naseralsaleh1987@gmail.com",
+        "Birthday" : "05/05/1987",
+        "Phone" :"004915732003206",
+        "Website" : "www.linkedin.com/in/naser-alsaleh-797188109",
+        "Address" : "Moststr.5 Fürth Deutschland",
+        "Username":"naser"
+    }   
+
+}
